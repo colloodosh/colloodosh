@@ -1,4 +1,4 @@
-## <div align="center">Hey there! I'm Collins Odongo.</div>  
+## <div align="left">Hey there! I'm Collins Odongo.</div>  
   
 
 -  👨‍💻  I'm a  full-time full-stack developer.  
