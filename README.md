@@ -16,7 +16,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech Stack 
 <table><tr><td valign="top" width="33%">
 
 
@@ -90,23 +90,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=colloodosh&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/colloodosh" target="_blank" style="display: inline-block;">
                 <img
@@ -116,5 +99,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
