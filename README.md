@@ -1,14 +1,9 @@
 ## <div align="left">Hey there! I'm Collins Odongo.</div>  
   
 
--  👨‍💻  I'm a  full-time full-stack developer.  
-  
-
-- 🔭 I’m currently working on [ Loans Management Platform](https://meapps.villagehopecore.org/#/login).  
-  
+-  👨‍💻  I'm a  full-time full-stack developer.    
 
 - 🌱 I’m currently learning about Kubernetes  
-  
 
 - ❓ Ask me about anything related to MEAN & MERN stacks and related technologies  
   
